@@ -54,7 +54,7 @@ pwsh ./banner.ps1
 
 Example result:
 
-```
+
 ![figlet-smkeyboard](sample/images/smkeyboard.png)
 ![figlet-block](sample/images/figlet-block.png)
 ![figlet-Cybermedium](sample/images/figlet-Cybermedium.png)
@@ -69,7 +69,7 @@ Example result:
 ![figlet-Speed](sample/images/figlet-Speed.png)
 ![figlet-standard](sample/images/figlet-standard.png)
 ![figlet-wetletter](sample/images/figlet-wetletter.png)
-```
+
 
 ## 🔧 Requirements
 
