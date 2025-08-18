@@ -18,8 +18,8 @@ Key elements included in the script:
 Example snippet from the script:
 
 ```powershell
-$logo = @"$VERTICAL_DIVIDER="   ||   "
-  <your ASCII logo here>
+$logo = @"
+<your ASCII logo here>
 "@
 
 $username   = "Recep Karayigit"
