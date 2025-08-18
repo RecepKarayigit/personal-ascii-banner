@@ -53,21 +53,34 @@ pwsh ./banner.ps1
 ```
 
 Example result:
-
-
-![figlet-smkeyboard](sample/images/smkeyboard.png)
+---------------
+### smkeyboard : 
+![figlet-smkeyboard](sample/images/figlet-smkeyboard.png)
+### block : 
 ![figlet-block](sample/images/figlet-block.png)
+### Cybermedium : 
 ![figlet-Cybermedium](sample/images/figlet-Cybermedium.png)
+### Georgia11 : 
 ![figlet-Georgia11](sample/images/figlet-Georgia11.png)
+### henry3d : 
 ![figlet-henry3d](sample/images/figlet-henry3d.png)
+### larry3d : 
 ![figlet-larry3d](sample/images/figlet-larry3d.png)
+### Lockergnome : 
 ![figlet-Lockergnome](sample/images/figlet-Lockergnome.png)
+### Nancyj : 
 ![figlet-Nancyj](sample/images/figlet-Nancyj.png)
+### puffy : 
 ![figlet-puffy](sample/images/figlet-puffy.png)
+### reverse : 
 ![figlet-reverse](sample/images/figlet-reverse.png)
+### rowancap : 
 ![figlet-rowancap](sample/images/figlet-rowancap.png)
+### Speed : 
 ![figlet-Speed](sample/images/figlet-Speed.png)
+### standard : 
 ![figlet-standard](sample/images/figlet-standard.png)
+### wetletter : 
 ![figlet-wetletter](sample/images/figlet-wetletter.png)
 
 
