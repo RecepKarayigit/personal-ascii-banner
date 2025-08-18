@@ -37,7 +37,7 @@ Perfect for personal branding, CLI customization, or making your PowerShell prom
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/terminal-banner-collection.git
+[git clone https://github.com/<your-username>/terminal-banner-collection.git](https://github.com/RecepKarayigit/personal-ascii-banner.git)
 cd personal-ascii-banner
 ```
 
