@@ -55,20 +55,20 @@ pwsh ./banner.ps1
 Example result:
 
 ```
-[figlet-smkeyboard](sample\images\smkeyboard.png)
-[figlet-block](sample\images\figlet-block.png)
-[figlet-Cybermedium](sample\images\figlet-Cybermedium.png)
-[figlet-Georgia11](sample\images\figlet-Georgia11.png)
-[figlet-henry3d](sample\images\figlet-henry3d.png)
-[figlet-larry3d](sample\images\figlet-larry3d.png)
-[figlet-Lockergnome](sample\images\figlet-Lockergnome.png)
-[figlet-Nancyj](sample\images\figlet-Nancyj.png)
-[figlet-puffy](sample\images\figlet-puffy.png)
-[figlet-reverse](sample\images\figlet-reverse.png)
-[figlet-rowancap](sample\images\figlet-rowancap.png)
-[figlet-Speed](sample\images\figlet-Speed.png)
-[figlet-standard](sample\images\figlet-standard.png)
-[figlet-wetletter](sample\images\figlet-wetletter.png)
+![figlet-smkeyboard](sample\images\smkeyboard.png)
+![figlet-block](sample\images\figlet-block.png)
+![figlet-Cybermedium](sample\images\figlet-Cybermedium.png)
+![figlet-Georgia11](sample\images\figlet-Georgia11.png)
+![figlet-henry3d](sample\images\figlet-henry3d.png)
+![figlet-larry3d](sample\images\figlet-larry3d.png)
+![figlet-Lockergnome](sample\images\figlet-Lockergnome.png)
+![figlet-Nancyj](sample\images\figlet-Nancyj.png)
+![figlet-puffy](sample\images\figlet-puffy.png)
+![figlet-reverse](sample\images\figlet-reverse.png)
+![figlet-rowancap](sample\images\figlet-rowancap.png)
+![figlet-Speed](sample\images\figlet-Speed.png)
+![figlet-standard](sample\images\figlet-standard.png)
+![figlet-wetletter](sample\images\figlet-wetletter.png)
 ```
 
 ## 🔧 Requirements
